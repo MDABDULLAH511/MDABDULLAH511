@@ -5,10 +5,10 @@
 
 <p>
   <b>Building Modern, Scalable Web Applications</b><br/>
-  JavaScript • React • Node.js • Next.js • MongoDB
+  JavaScript • React • Node.js • Next.js • MongoDB • WordPress 
 </p>
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,nextjs,mongodb" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,nextjs,mongodb,wordpress" />
 
 <p>
   🚀 <b>Available for New Projects</b>
@@ -36,7 +36,7 @@ I enjoy turning ideas into real products, solving complex problems, and continuo
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,vite" />
 </p>
 
 ### ⚙️ Backend & Database
@@ -46,23 +46,45 @@ I enjoy turning ideas into real products, solving complex problems, and continuo
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,figma,vscode " />
 </p>
 
 ---
 
 ## 🌐 Let’s Connect
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+
+<p align="">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/md--abdullah/" target="_blank" style="text-decoration:none !important">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="55" height="55" alt="LinkedIn" style="display:block; border:none;"/>
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/MD.Abdullah252" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="55" height="55" alt="Facebook" style="display:block; border:none;"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/mdabdullah5171/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="55" height="55" alt="Instagram" style="display:block; border:none;"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/8801883174388" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="55" height="55" alt="WhatsApp" style="display:block; border:none;"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:155mdabdullah@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/000000/circled-envelope.png" width="55" height="55" alt="Email" style="display:block; border:none;"/>
   </a>
 </p>
 
-📧 **Email:** yourname@email.com  
-📱 **WhatsApp:** +880XXXXXXXXXX  
+
+
+
+📧 **Email:** 155mdabdullah@gmail.com
+📱 **WhatsApp:** +880 1883 17 43 88
 
 ---
 
