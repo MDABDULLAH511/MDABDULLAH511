@@ -96,17 +96,11 @@ I enjoy turning ideas into real products, solving complex problems, and continuo
 
 ## 📊 GitHub in Numbers
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=your-github-username&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MDABDULLAH511&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ---
 
